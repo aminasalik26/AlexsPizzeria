@@ -20,7 +20,6 @@ The database tracks key business data such as customer orders, inventory stock l
 
 - **SQL (MySQL)**: For creating and managing the database, writing complex queries, and building views.
 - **Quick DBD**: For designing the relational database schema.
-- **Navicat for MySQL**: For managing MySQL databases and query execution.
 - **Google Data Studio**: For connecting the SQL database and building interactive dashboards.
 
 ## **Database Schema**
